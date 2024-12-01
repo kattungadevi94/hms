@@ -14,4 +14,5 @@ import lombok.Setter;
 public class users {
     private long id;
     private String name;
+    private String address;
 }
